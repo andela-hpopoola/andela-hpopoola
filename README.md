@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-![Image 1](profileimage.png)
-![Image 2](./profileimage.png)
-![Image 3](/profileimage.png)
-
-![Image 1](bg.png)
-![Image 2](./bg.png)
-![Image 3](/bg.png)
+![profileimage](https://user-images.githubusercontent.com/26963369/91458589-9a916f80-e87d-11ea-9d8d-ef8c3ee5ac7e.png)
 
 **andela-hpopoola/andela-hpopoola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
