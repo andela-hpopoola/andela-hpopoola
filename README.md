@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-<!--
+![Image 1](profileimage.png)
+![Image 2](./profileimage.png)
+![Image 3](/profileimage.png)
+
+![Image 1](bg.png)
+![Image 2](./bg.png)
+![Image 3](/bg.png)
+
 **andela-hpopoola/andela-hpopoola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
